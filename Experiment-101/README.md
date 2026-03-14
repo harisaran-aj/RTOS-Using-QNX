@@ -9,7 +9,7 @@ To create, build, and execute a simple “Hello World” program in QNX on two t
 
 ---
 
-## Hardware Requirement  
+## Hardware Requirements  
 
 ### For VMware Setup
 - Host PC / Laptop (Intel/AMD processor)
